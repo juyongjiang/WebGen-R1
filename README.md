@@ -85,3 +85,29 @@ python jsonl_to_parquet.py
 bash runs/sft.sh
 bash runs/train.sh
 ```
+
+## Citation
+
+If you use the data or code in this repo, please consider citing the following papers.
+
+```bibtex
+@misc{jiang2026webgenr1incentivizinglargelanguage,
+    title={WebGen-R1: Incentivizing Large Language Models to Generate Functional and Aesthetic Websites with Reinforcement Learning}, 
+    author={Juyong Jiang and Chenglin Cai and Chansung Park and Jiasi Shen and Sunghun Kim and Jianguo Li and Yue Wang},
+    year={2026},
+    eprint={2604.20398},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL},
+    url={https://arxiv.org/abs/2604.20398}, 
+}
+```
+```bibtex
+@inproceedings{
+    lu2026webgenbench,
+    title={WebGen-Bench: Evaluating {LLM}s on Generating Interactive and Functional Websites from Scratch},
+    author={Zimu Lu and Yunqiao Yang and Houxing Ren and Haotian Hou and Han Xiao and Ke Wang and Weikang Shi and Aojun Zhou and Mingjie Zhan and Hongsheng Li},
+    booktitle={The Thirty-ninth Annual Conference on Neural Information Processing Systems Datasets and Benchmarks Track},
+    year={2026},
+    url={https://openreview.net/forum?id=q2VpjD7k1V}
+}
+```
