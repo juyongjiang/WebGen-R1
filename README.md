@@ -1,4 +1,4 @@
-# WebGen-R1: Incentivizing LLMs to Generate Functional and Aesthetic Websites with Reinforcement Learning
+# WebGen-R1: Incentivizing Large Language Models to Generate Functional and Aesthetic Websites with Reinforcement Learning
 
 <p align="center" width="100%">
 <img src="assets/WebGen-R1.png" alt="WebGen-R1" style="width: 100%; min-width: 100px; display: block; margin: auto;">
